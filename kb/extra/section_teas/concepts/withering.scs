@@ -1,0 +1,4 @@
+withering <- sc_node_class;
+withering -> nrel_main_idtf: [Завяливание];
+withering -> nrel_note: [Этап обработки, при котором из свежего листа удаляется часть влаги.]
+        withering -> processing_method;;

@@ -1,0 +1,3 @@
+tea_plant <- sc_node_class;
+tea_plant -> nrel_main_idtf: [Чайное растение];
+tea_plant -> nrel_note: [Растение Camellia sinensis, листья и почки которого используются для производства традиционного чая.];;

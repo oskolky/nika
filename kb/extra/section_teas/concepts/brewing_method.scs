@@ -1,0 +1,3 @@
+brewing_method <- sc_node_class;
+brewing_method -> nrel_main_idtf: [Метод заваривания];
+brewing_method -> nrel_note: [Способ приготовления чайного напитка с использованием воды.];;

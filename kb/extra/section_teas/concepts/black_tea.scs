@@ -1,0 +1,4 @@
+black_tea <- sc_node_class;
+black_tea -> nrel_main_idtf: [Чёрный чай];
+black_tea -> nrel_note: [Чай, при производстве которого происходит интенсивное окисление чайного листа.]
+        black_tea -> tea_type;;

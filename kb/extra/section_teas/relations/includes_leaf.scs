@@ -1,0 +1,4 @@
+includes_leaf <- sc_node_non_role_relation;
+includes_leaf -> nrel_main_idtf: [включает чайный лист];
+includes_leaf -> nrel_first_domain: tea;
+includes_leaf -> nrel_second_domain: tea_leaf;;

@@ -1,0 +1,4 @@
+served_in <- sc_node_non_role_relation;
+served_in -> nrel_main_idtf: [подаётся в];
+served_in -> nrel_first_domain: tea_beverage;
+served_in -> nrel_second_domain: teaware;;

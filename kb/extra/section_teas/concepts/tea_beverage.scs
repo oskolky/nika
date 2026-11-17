@@ -1,0 +1,3 @@
+tea_beverage <- sc_node_class;
+tea_beverage -> nrel_main_idtf: [Чайный напиток];
+tea_beverage -> nrel_note: [Напиток, полученный в результате приготовления чайного сырья в воде.];;

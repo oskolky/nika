@@ -1,0 +1,4 @@
+rolling <- sc_node_class;
+rolling -> nrel_main_idtf: [Скручивание];
+rolling -> nrel_note: [Механическая обработка чайного листа, изменяющая его форму и структуру.]
+        rolling -> processing_method;;

@@ -1,0 +1,4 @@
+antioxidant <- sc_node_class;
+antioxidant -> nrel_main_idtf: [Антиоксидант];
+antioxidant -> nrel_note: [Соединение, способное участвовать в процессах, связанных с предотвращением окисления.]
+        antioxidant -> chemical_substance;;

@@ -1,0 +1,3 @@
+teaware <- sc_node_class;
+teaware -> nrel_main_idtf: [Чайная посуда];
+teaware -> nrel_note: [Посуда, используемая для приготовления, подачи или употребления чая.];;

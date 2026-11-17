@@ -1,0 +1,3 @@
+processing_method <- sc_node_class;
+processing_method -> nrel_main_idtf: [Метод обработки];
+processing_method -> nrel_note: [Способ технологической обработки чайного сырья при производстве чая.];;

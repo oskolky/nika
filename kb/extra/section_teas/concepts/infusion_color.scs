@@ -1,0 +1,3 @@
+infusion_color <- sc_node_class;
+infusion_color -> nrel_main_idtf: [Цвет настоя];
+infusion_color -> nrel_note: [Визуальная характеристика приготовленного чайного напитка.];;

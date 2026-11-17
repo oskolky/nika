@@ -1,0 +1,3 @@
+aroma <- sc_node_class;
+aroma -> nrel_main_idtf: [Аромат];
+aroma -> nrel_note: [Запаховая характеристика сухого чая или приготовленного напитка.];;

@@ -1,0 +1,3 @@
+oxidation_degree <- sc_node_class;
+oxidation_degree -> nrel_main_idtf: [Степень окисления];
+oxidation_degree -> nrel_note: [Характеристика, отражающая степень окислительных изменений чайного листа.];;

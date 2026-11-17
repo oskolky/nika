@@ -1,0 +1,46 @@
+sencha -> has_type: green_tea;
+sencha -> produced_in: japan;
+sencha -> made_from: tea_leaf_material;
+sencha -> has_aroma: grassy_aroma;
+sencha -> has_taste: astringent_taste;
+
+longjing -> has_type: green_tea;
+longjing -> produced_in: china;
+longjing -> made_from: tea_leaf_material;
+
+assam -> has_type: black_tea;
+assam -> produced_in: india;
+assam -> made_from: tea_leaf_material;
+
+darjeeling -> has_type: black_tea;
+darjeeling -> produced_in: india;
+darjeeling -> made_from: tea_leaf_material;
+
+tieguanyin -> has_type: oolong;
+tieguanyin -> produced_in: china;
+tieguanyin -> made_from: tea_leaf_material;
+tieguanyin -> has_aroma: floral_aroma;
+
+dahongpao -> has_type: oolong;
+dahongpao -> produced_in: china;
+dahongpao -> made_from: tea_leaf_material;
+
+puer -> has_type: dark_tea;
+puer -> produced_in: china;
+puer -> made_from: tea_leaf_material;
+
+baimudan -> has_type: white_tea;
+baimudan -> produced_in: china;
+baimudan -> made_from: tea_leaf_material;
+
+sencha -> processed_by: drying;
+sencha -> processed_by: rolling;
+tieguanyin -> processed_by: rolling;
+assam -> processed_by: withering;
+assam -> processed_by: rolling;
+
+sencha -> contains_substance: caffeine;
+sencha -> contains_substance: theanine;
+tea_beverage -> served_in: porcelain_teapot;
+tea_beverage -> pairs_with: lemon;
+tea_beverage -> pairs_with: ginger;;

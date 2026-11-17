@@ -1,0 +1,4 @@
+green_tea <- sc_node_class;
+green_tea -> nrel_main_idtf: [Зелёный чай];
+green_tea -> nrel_note: [Чай, при производстве которого окисление чайного листа существенно ограничивается.]
+        green_tea -> tea_type;;

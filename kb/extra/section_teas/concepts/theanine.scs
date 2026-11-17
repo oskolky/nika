@@ -1,0 +1,4 @@
+theanine <- sc_node_class;
+theanine -> nrel_main_idtf: [Теанин];
+theanine -> nrel_note: [Аминокислота, характерная для чайного растения и содержащаяся в чайном листе.]
+        theanine -> chemical_substance;;

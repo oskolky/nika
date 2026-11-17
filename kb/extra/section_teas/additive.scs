@@ -1,0 +1,3 @@
+additive <- sc_node_class;
+additive -> nrel_main_idtf: [Добавка к чаю];
+additive -> nrel_note: [Вещество или продукт, который может добавляться в чайный напиток.];;

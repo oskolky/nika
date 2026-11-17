@@ -1,0 +1,4 @@
+oxidation <- sc_node_class;
+oxidation -> nrel_main_idtf: [Окисление];
+oxidation -> nrel_note: [Процесс, влияющий на химический состав, цвет, вкус и аромат чайного листа.]
+        oxidation -> processing_method;;

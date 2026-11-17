@@ -1,0 +1,4 @@
+tea_blend <- sc_node_class;
+tea_blend -> nrel_main_idtf: [Чайная смесь];
+tea_blend -> nrel_note: [Смесь чайного сырья или чайного сырья с другими компонентами.]
+        tea_blend -> tea_type;;

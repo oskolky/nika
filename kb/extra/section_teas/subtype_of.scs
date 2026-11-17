@@ -1,0 +1,4 @@
+subtype_of <- sc_node_non_role_relation;
+subtype_of -> nrel_main_idtf: [является подтипом];
+subtype_of -> nrel_first_domain: tea_type;
+subtype_of -> nrel_second_domain: tea_type;;

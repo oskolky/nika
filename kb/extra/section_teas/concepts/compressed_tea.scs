@@ -1,0 +1,4 @@
+compressed_tea <- sc_node_class;
+compressed_tea -> nrel_main_idtf: [Прессованный чай];
+compressed_tea -> nrel_note: [Чай, сформированный в плотную прессованную форму.]
+        compressed_tea -> tea_type;;

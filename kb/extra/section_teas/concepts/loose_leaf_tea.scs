@@ -1,0 +1,4 @@
+loose_leaf_tea <- sc_node_class;
+loose_leaf_tea -> nrel_main_idtf: [Листовой чай];
+loose_leaf_tea -> nrel_note: [Чай, реализуемый в виде отдельных листьев или их фрагментов, а не в чайном пакетике.]
+        loose_leaf_tea -> tea_type;;

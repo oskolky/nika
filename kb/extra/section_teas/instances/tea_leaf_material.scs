@@ -1,0 +1,3 @@
+tea_leaf_material -> tea_leaf;
+tea_leaf_material -> nrel_main_idtf: [Чайный лист];
+tea_leaf_material -> nrel_note: [Сырьё для производства чая.];;

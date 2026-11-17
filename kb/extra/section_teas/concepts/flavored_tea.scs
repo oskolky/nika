@@ -1,0 +1,4 @@
+flavored_tea <- sc_node_class;
+flavored_tea -> nrel_main_idtf: [Ароматизированный чай];
+flavored_tea -> nrel_note: [Чайная продукция, аромат которой дополнен ингредиентами или ароматизирующими компонентами.]
+        flavored_tea -> tea_type;;

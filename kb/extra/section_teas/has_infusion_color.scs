@@ -1,0 +1,4 @@
+has_infusion_color <- sc_node_non_role_relation;
+has_infusion_color -> nrel_main_idtf: [имеет цвет настоя];
+has_infusion_color -> nrel_first_domain: tea_beverage;
+has_infusion_color -> nrel_second_domain: infusion_color;;

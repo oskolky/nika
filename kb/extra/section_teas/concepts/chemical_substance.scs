@@ -1,0 +1,3 @@
+chemical_substance <- sc_node_class;
+chemical_substance -> nrel_main_idtf: [Химическое вещество];
+chemical_substance -> nrel_note: [Вещество, входящее в химический состав чайного листа или напитка.];;

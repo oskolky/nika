@@ -1,0 +1,36 @@
+// Лабораторная работа №1. Предметная область: Чаи
+// Вариант 55
+
+section_teas
+    -> rrel_maximum_studied_object_class: tea;
+    -> rrel_not_maximum_studied_object_class: tea_type;
+    -> rrel_not_maximum_studied_object_class: tea_plant;
+    -> rrel_not_maximum_studied_object_class: tea_leaf;
+    -> rrel_not_maximum_studied_object_class: processing_method;
+    -> rrel_not_maximum_studied_object_class: taste;
+    -> rrel_not_maximum_studied_object_class: aroma;
+    -> rrel_not_maximum_studied_object_class: region;
+    -> rrel_not_maximum_studied_object_class: producer;
+    -> rrel_not_maximum_studied_object_class: brewing_method;
+    -> rrel_not_maximum_studied_object_class: teaware;
+    -> rrel_not_maximum_studied_object_class: additive;
+    -> rrel_not_maximum_studied_object_class: chemical_substance;
+    -> rrel_not_maximum_studied_object_class: infusion_color;
+    -> rrel_not_maximum_studied_object_class: water_temperature;
+    -> rrel_not_maximum_studied_object_class: brewing_time;
+    -> rrel_explored_relation: has_type;
+    -> rrel_explored_relation: produced_in;
+    -> rrel_explored_relation: made_from;
+    -> rrel_explored_relation: processed_by;
+    -> rrel_explored_relation: has_taste;
+    -> rrel_explored_relation: has_aroma;
+    -> rrel_explored_relation: has_infusion_color;
+    -> rrel_explored_relation: brewed_at;
+    -> rrel_explored_relation: brewed_for;
+    -> rrel_explored_relation: produced_by;
+    -> rrel_explored_relation: contains_substance;
+    -> rrel_explored_relation: served_in;
+    -> rrel_explored_relation: pairs_with;
+    -> rrel_explored_relation: subtype_of;
+    -> rrel_explored_relation: includes_leaf;
+    -> rrel_explored_relation: has_processing_degree;;

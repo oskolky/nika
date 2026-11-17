@@ -1,0 +1,4 @@
+tea_bag <- sc_node_class;
+tea_bag -> nrel_main_idtf: [Чайный пакетик];
+tea_bag -> nrel_note: [Форма фасовки чайного сырья в фильтрующем пакетике.]
+        tea_bag -> tea_type;;

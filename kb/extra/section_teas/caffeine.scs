@@ -1,0 +1,4 @@
+caffeine <- sc_node_class;
+caffeine -> nrel_main_idtf: [Кофеин];
+caffeine -> nrel_note: [Алкалоид, присутствующий в чайном листе и чайном напитке.]
+        caffeine -> chemical_substance;;

@@ -1,0 +1,4 @@
+oolong <- sc_node_class;
+oolong -> nrel_main_idtf: [Улун];
+oolong -> nrel_note: [Чай с частичным окислением, занимающий промежуточное положение между зелёным и чёрным чаем.]
+        oolong -> tea_type;;

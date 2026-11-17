@@ -1,0 +1,4 @@
+yellow_tea <- sc_node_class;
+yellow_tea -> nrel_main_idtf: [Жёлтый чай];
+yellow_tea -> nrel_note: [Вид чая, для которого характерна специальная стадия обработки, отличающая его от зелёного чая.]
+        yellow_tea -> tea_type;;

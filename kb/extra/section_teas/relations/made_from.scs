@@ -1,0 +1,4 @@
+made_from <- sc_node_non_role_relation;
+made_from -> nrel_main_idtf: [изготовлен из];
+made_from -> nrel_first_domain: tea;
+made_from -> nrel_second_domain: tea_leaf;;

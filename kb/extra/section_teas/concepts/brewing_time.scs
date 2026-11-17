@@ -1,0 +1,3 @@
+brewing_time <- sc_node_class;
+brewing_time -> nrel_main_idtf: [Время заваривания];
+brewing_time -> nrel_note: [Продолжительность контакта чайного сырья с водой при приготовлении напитка.];;

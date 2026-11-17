@@ -1,0 +1,1917 @@
+{
+  "name": "nika-teas",
+  "lang": "ru",
+  "timezone": "Europe/Minsk",
+  "version": "0.0.1",
+  "data": [
+    {
+      "name": "about_entity",
+      "expressions": [
+        {
+          "text": "Что такое Добавка к чаю?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 23,
+              "body": "Добавка к чаю",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Добавка к чаю",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 26,
+              "body": "Добавка к чаю",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Антиоксидант?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 22,
+              "body": "Антиоксидант",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Антиоксидант",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 25,
+              "body": "Антиоксидант",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Аромат?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 16,
+              "body": "Аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Аромат",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 19,
+              "body": "Аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чёрный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чёрный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Чёрный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Чёрный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 39,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Чёрный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 16,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Чёрный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Чёрный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Метод заваривания?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Метод заваривания",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Метод заваривания",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Метод заваривания",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Время заваривания?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Время заваривания",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Время заваривания",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Время заваривания",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Кофеин?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 16,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Кофеин",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 19,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Кофеин?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 24,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Кофеин?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 35,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Кофеин",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 12,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Кофеин",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 24,
+              "body": "Кофеин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Химическое вещество?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 29,
+              "body": "Химическое вещество",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Химическое вещество",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 32,
+              "body": "Химическое вещество",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Прессованный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 26,
+              "body": "Прессованный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Прессованный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 29,
+              "body": "Прессованный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Тёмный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Тёмный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Тёмный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Тёмный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Сушка?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Сушка",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Сушка",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Сушка",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Ароматизированный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 31,
+              "body": "Ароматизированный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Ароматизированный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 34,
+              "body": "Ароматизированный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Зелёный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 21,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Зелёный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 24,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Зелёный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 29,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Зелёный чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 40,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Зелёный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 17,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Зелёный чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 29,
+              "body": "Зелёный чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Цвет настоя?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 21,
+              "body": "Цвет настоя",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Цвет настоя",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 24,
+              "body": "Цвет настоя",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Листовой чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 22,
+              "body": "Листовой чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Листовой чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 25,
+              "body": "Листовой чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Улун?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 14,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Улун",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 17,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Улун?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 22,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Улун?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 33,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Улун",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 10,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Улун",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 22,
+              "body": "Улун",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Степень окисления?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Степень окисления",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Степень окисления",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Степень окисления",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Окисление?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 19,
+              "body": "Окисление",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Окисление",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 22,
+              "body": "Окисление",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Метод обработки?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 25,
+              "body": "Метод обработки",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Метод обработки",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 28,
+              "body": "Метод обработки",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Производитель чая?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Производитель чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Производитель чая",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Производитель чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Регион производства?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 29,
+              "body": "Регион производства",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Регион производства",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 32,
+              "body": "Регион производства",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Скручивание?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 21,
+              "body": "Скручивание",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Скручивание",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 24,
+              "body": "Скручивание",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Вкус?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 14,
+              "body": "Вкус",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Вкус",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 17,
+              "body": "Вкус",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайный пакетик?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 24,
+              "body": "Чайный пакетик",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайный пакетик",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 27,
+              "body": "Чайный пакетик",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайный напиток?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 24,
+              "body": "Чайный напиток",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайный напиток",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 27,
+              "body": "Чайный напиток",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайная смесь?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 22,
+              "body": "Чайная смесь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайная смесь",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 25,
+              "body": "Чайная смесь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайная церемония?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 26,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайная церемония",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 29,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Чайная церемония?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 34,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Чайная церемония?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 45,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Чайная церемония",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 22,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Чайная церемония",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 34,
+              "body": "Чайная церемония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайный лист?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 21,
+              "body": "Чайный лист",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайный лист",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 24,
+              "body": "Чайный лист",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайное растение?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 25,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайное растение",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 28,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Чайное растение?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 33,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Чайное растение?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 44,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Чайное растение",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 21,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Чайное растение",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 33,
+              "body": "Чайное растение",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 13,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 16,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 21,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 32,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 9,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 21,
+              "body": "Чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Вид чая?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 17,
+              "body": "Вид чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Вид чая",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 20,
+              "body": "Вид чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Сорт чая?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 18,
+              "body": "Сорт чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Сорт чая",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 21,
+              "body": "Сорт чая",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Чайная посуда?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 23,
+              "body": "Чайная посуда",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Чайная посуда",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 26,
+              "body": "Чайная посуда",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Теанин?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 16,
+              "body": "Теанин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Теанин",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 19,
+              "body": "Теанин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Температура воды?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 26,
+              "body": "Температура воды",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Температура воды",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 29,
+              "body": "Температура воды",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Белый чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 19,
+              "body": "Белый чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Белый чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 22,
+              "body": "Белый чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Завяливание?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 21,
+              "body": "Завяливание",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Завяливание",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 24,
+              "body": "Завяливание",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Жёлтый чай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Жёлтый чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Жёлтый чай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Жёлтый чай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Ассам?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Ассам",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Ассам",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Ассам",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Терпкий вкус?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 22,
+              "body": "Терпкий вкус",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Терпкий вкус",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 25,
+              "body": "Терпкий вкус",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Бай Мудань?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Бай Мудань",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Бай Мудань",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Бай Мудань",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Camellia sinensis?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Camellia sinensis",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Camellia sinensis",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Camellia sinensis",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Китай?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Китай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Китай",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Китай",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Да Хун Пао?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Да Хун Пао",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Да Хун Пао?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Да Хун Пао?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 39,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Да Хун Пао",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 16,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Да Хун Пао",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Да Хун Пао",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Дарджилинг?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Дарджилинг",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Дарджилинг",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Дарджилинг",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Цветочный аромат?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 26,
+              "body": "Цветочный аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Цветочный аромат",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 29,
+              "body": "Цветочный аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Имбирь?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 16,
+              "body": "Имбирь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Имбирь",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 19,
+              "body": "Имбирь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Золотистый настой?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Золотистый настой",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Золотистый настой",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Золотистый настой",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Травянистый аромат?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 28,
+              "body": "Травянистый аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Травянистый аромат",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 31,
+              "body": "Травянистый аромат",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Индия?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Индия",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Индия",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Индия",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Япония?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 16,
+              "body": "Япония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Япония",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 19,
+              "body": "Япония",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Лимон?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Лимон",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Лимон",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Лимон",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Лунцзин?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 17,
+              "body": "Лунцзин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Лунцзин",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 20,
+              "body": "Лунцзин",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Фарфоровый чайник?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 27,
+              "body": "Фарфоровый чайник",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Фарфоровый чайник",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 30,
+              "body": "Фарфоровый чайник",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Пуэр?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 14,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Пуэр",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 17,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Пуэр?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 22,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Пуэр?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 33,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Пуэр",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 10,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Пуэр",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 22,
+              "body": "Пуэр",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Сенча?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 15,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Сенча",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 18,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Сенча?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 23,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Сенча?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 34,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Сенча",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 11,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Сенча",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 23,
+              "body": "Сенча",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что такое Тегуаньинь?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 10,
+              "end": 20,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Расскажи про Тегуаньинь",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 13,
+              "end": 23,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты знаешь про Тегуаньинь?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Что ты можешь рассказать про Тегуаньинь?",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 29,
+              "end": 39,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Опиши Тегуаньинь",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 6,
+              "end": 16,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        },
+        {
+          "text": "Поясни, что такое Тегуаньинь",
+          "entities": [
+            {
+              "entity": "rrel_entity",
+              "start": 18,
+              "end": 28,
+              "body": "Тегуаньинь",
+              "entities": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "name": "rrel_entity",
+      "roles": [
+        "rrel_entity"
+      ]
+    }
+  ]
+}

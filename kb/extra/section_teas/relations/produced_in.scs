@@ -1,0 +1,4 @@
+produced_in <- sc_node_non_role_relation;
+produced_in -> nrel_main_idtf: [произведён в];
+produced_in -> nrel_first_domain: tea;
+produced_in -> nrel_second_domain: region;;

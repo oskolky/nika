@@ -1,0 +1,4 @@
+dark_tea <- sc_node_class;
+dark_tea -> nrel_main_idtf: [Тёмный чай];
+dark_tea -> nrel_note: [Категория постферментированных чаёв, к которой относится, например, пуэр.]
+        dark_tea -> tea_type;;

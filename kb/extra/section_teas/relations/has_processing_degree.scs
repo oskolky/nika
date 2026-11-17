@@ -1,0 +1,4 @@
+has_processing_degree <- sc_node_non_role_relation;
+has_processing_degree -> nrel_main_idtf: [имеет степень окисления];
+has_processing_degree -> nrel_first_domain: tea;
+has_processing_degree -> nrel_second_domain: oxidation_degree;;

@@ -1,0 +1,4 @@
+white_tea <- sc_node_class;
+white_tea -> nrel_main_idtf: [Белый чай];
+white_tea -> nrel_note: [Вид чая, изготавливаемый из молодых почек и листьев с минимальной обработкой.]
+        white_tea -> tea_type;;

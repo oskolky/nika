@@ -1,0 +1,3 @@
+water_temperature <- sc_node_class;
+water_temperature -> nrel_main_idtf: [Температура воды];
+water_temperature -> nrel_note: [Температура воды, используемой для приготовления чайного напитка.];;
